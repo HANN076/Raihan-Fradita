@@ -1,3 +1,4 @@
 # Raihan-Fradita
-![Anime GIF](https://tenor.com/view/idoly-pride-dance-gif-20399823)
-<img src="https://tenor.com/view/idoly-pride-dance-gif-20399823" width="300">
+![Idoly Pride Dance](https://media.tenor.com/images/8e9d5e1c1e4e5b8e2b3c4f1e4e5e8e9d/tenor.gif)
+<img src="https://media.tenor.com/images/8e9d5e1c1e4e5b8e2b3c4f1e4e5e8e9d/tenor.gif" width="300" />
+
